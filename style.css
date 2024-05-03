@@ -30,4 +30,16 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0.1);
     border:none;
     font-size:8vmin;
+    color: brown;
+}
+
+#reset-btn{
+    padding:1rem;
+    font-size: 3vmin;
+    border-radius:2vmin;
+    border:none;
+    background-color: black;
+    color: brown;
+    
+
 }
